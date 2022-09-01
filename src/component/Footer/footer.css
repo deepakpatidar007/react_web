@@ -1,0 +1,21 @@
+.footer{
+    background: black;
+
+}
+.footer__container{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem
+}
+.footer__item{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding-top: 3rem;
+
+}
+.footer__item h4{
+    color: rgb(29, 172, 207);
+}

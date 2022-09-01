@@ -1,0 +1,24 @@
+.slide__container{
+    padding-top: 13rem;
+    
+   display: grid;
+   width: 90%;
+    height: 100%;
+   grid-template-columns: 1fr 1fr 1fr;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   
+}
+.slide__icon{
+    font-size: 5rem;
+}
+.__slide{
+    
+    display: flex;
+    justify-content: right; 
+}
+.carousel{
+    width: 100%;
+    height: 100%;
+}

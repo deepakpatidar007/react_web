@@ -1,0 +1,13 @@
+.projects__container{
+    width: 80%;
+    margin: 4rem auto;
+}
+.projects__container h2{
+    color: rgb(29, 172, 207);
+}
+.project__item{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0rem;
+    padding-top: 2rem;
+}

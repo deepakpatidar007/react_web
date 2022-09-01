@@ -1,0 +1,45 @@
+/* ============UPER HEADER============*/
+.paper__container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.social__icons{
+    display: flex;
+    gap: 1rem;
+    padding-top: 0.7rem;
+    justify-content: center;
+}
+.contact__icons{
+    display: flex;
+    gap: 2rem;
+    padding-top: 0.7rem;
+}
+.contact__icon{
+    display: flex;
+    gap: 0.5rem;
+}
+.contact__icon p{
+    color: gray;
+}
+.__icon{
+    color: gray;
+}
+/*==============HEADER=============*/
+.header__container{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 0;
+}
+.header__left{
+    color: rgb(29, 172, 207);
+}
+.header__right{
+    display: flex;
+    gap: 4rem;
+}
+.link{
+    font-size: 20px;
+    color: gray;
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.clients{
+    background:rgb(29, 172, 207);
+    ;
+}
+.clients__container{
+    display: flex;
+    width: 50%;
+    gap: 4rem;
+    margin: 2rem auto;
+    padding: 4rem;
+    text-align: center;
+    color: wheat;
+}

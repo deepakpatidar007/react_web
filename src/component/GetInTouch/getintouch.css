@@ -1,0 +1,20 @@
+.getintouch{
+    background: rgb(29, 172, 207);
+}
+.getintouch__container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding:2rem;
+}
+.getintouch__container h4{
+    color: wheat;
+}
+.getintouch__container a{
+    color: wheat;
+    border: 1px solid wheat;
+    padding: 0.7rem;
+    text-decoration: none;
+}

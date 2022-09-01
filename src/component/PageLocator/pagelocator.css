@@ -1,0 +1,15 @@
+.pagelocator{
+    background: rgb(29, 172, 207);
+
+}
+.pagelocator__container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center
+}
+.pagelocator__container h6{
+    padding-top: 0.8rem;
+}
